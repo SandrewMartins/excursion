@@ -8,14 +8,33 @@ h1{
   color: White;
   text-align: center;
 }
-h2 {
-  color:White;
-}
-a {
-  color: aquamarine;
+.links {
   font-size: 16px;
-  text-align:center;
-}
-.videos {
   text-align: center;
+}
+a{
+  color: aquamarine;
+}
+.video{
+  text-align: center;
+}
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+.remembers{
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.copyright{
+  color: gray;
+  text-align: right;
 }
